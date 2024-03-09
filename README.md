@@ -3,7 +3,7 @@ A program működése: A felhasználó által irányított karakter folyamatosan
 
 Képernyőképek :
 - Macska:
-  ![image](https://github.com/NagyGergelyTibor/Programozasi_nyelvek_1./assets/94457772/9b294906-582e-463c-8d89-a6045fcb4883)
+![image](https://github.com/NagyGergelyTibor/Programozasi_nyelvek_1./assets/94457772/9b294906-582e-463c-8d89-a6045fcb4883)
 - Kutya:
   ![image](https://github.com/NagyGergelyTibor/Programozasi_nyelvek_1./assets/94457772/870bec29-de43-44a7-8587-58d3a9f4203e)
 - Alaphelyzetbe állítás:
