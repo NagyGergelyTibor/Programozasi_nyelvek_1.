@@ -1,2 +1,5 @@
 A projekt leírása: A program egy olyan Scratch projektet valósít meg, amelyben a kutya klasszikus módon üldözi a felhasználó által irányított macskát, így annak feladata az üldöző előli kitérés, annak elkerülése.
 A program működése: A felhasználó által irányított karakter folyamatosan követi az egérmutatót, a kutya pedig a macskát. Amikor a két karakter találkozik, akkor a játék alaphelyzetbe áll, megjeleníti az "Alaphelyzetbe állítva" feliratot és néhány másodperc múlva automatikasan újraindul. Amennyiben a felhasználó kívánja alaphelyzetbe állítani a programot, akkor azt megteheti a jobb felső sarokban lévő "Alaphelyzet" gombra való kattintással. A program tartaltam automatikusan lejátszódó hangeffekteket is, továbbá a felhasználó nyávogtathatja a karakterét a space gomb lenyomásával is. A játékban töltött időt a bal felül lévő számlálóról olvashatjuk le, amely alaphelyzetbe való állítás esetén nullázódik.
+
+Képernyőképek:
+![image](https://github.com/NagyGergelyTibor/Programozasi_nyelvek_1./assets/94457772/9b294906-582e-463c-8d89-a6045fcb4883)
